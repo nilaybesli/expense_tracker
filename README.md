@@ -1,16 +1,21 @@
-# expense_tracker
+Expense tracking app with Flutter
 
-A new Flutter project.
 
-## Getting Started
+Expenses list:
 
-This project is a starting point for a Flutter application.
+![Ekran görüntüsü 2024-03-09 004953](https://github.com/nilaybesli/expense_tracker/assets/64665975/be3f17cc-e2bc-492d-b700-24d7c6639c42)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Add new expense:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Ekran görüntüsü 2024-03-09 004833](https://github.com/nilaybesli/expense_tracker/assets/64665975/3eb663e2-3289-41c2-87a6-b3c53c41abb0)
+
+
+Responsive screen: 
+
+![Ekran görüntüsü 2024-03-09 004808](https://github.com/nilaybesli/expense_tracker/assets/64665975/60602dc6-f9b2-41f8-808c-2ee404bd9fe6)
+
+
+Dark theme:
+
+![Ekran görüntüsü 2024-03-14 014043](https://github.com/nilaybesli/expense_tracker/assets/64665975/9a2427a7-b410-45bc-818f-1a421511fc31)

@@ -1,4 +1,4 @@
-Expense tracking app with Flutter
+Mini expense tracking app with Flutter
 
 
 
